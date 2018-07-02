@@ -1,0 +1,29 @@
+
+
+.list{
+    color: white
+}
+
+#add{
+    text-align: center;
+    color:white;
+}
+
+img{
+   
+    margin: 3px;
+}
+
+p{
+    color: white;
+}
+
+.character{
+background-color: rebeccapurple;
+box-shadow: 5px 10px;
+}
+
+#add-character{
+    background-color: rebeccapurple;
+    box-shadow: 5px 10px;
+}
