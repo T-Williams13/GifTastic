@@ -1,6 +1,6 @@
 $(document).ready(function () {
     //Step 1: create an array that gets turned into buttons which display on the page when it loads. 
-    var topics = ["Leslie Knope", "Ron Swanson", "Tom Haverford"];
+    var topics = ["Leslie Knope", "Ron Swanson", "Tom Haverford", "John Ralphio", "Tom Haverford", "Donna Meagle"];
     //for loop that appends buttons for each string in the array
 
     function renderButtons() {
